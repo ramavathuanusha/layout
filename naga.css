@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.naga{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(12, 165, 241);
+}
+.lakshmi {
+
+position: absolute;
+background-size: cover;
+
+}
+.anu{
+    text-align: center;
+    padding: 20px;
+}
+input[type=search]{
+    float: right;
+    margin: 20px;
+    border-radius: 20px;
+    height: 40px;
+    background-color: rgb(235, 240, 244);
+    
+}
+input[type=search]:hover{
+    background-color: aqua;
+}
+   
+.Nagalakshmi{
+    height: 1260px;
+    width:200px;
+    background-color: rgb(176, 252, 252);
+    float: left;
+
+}
+.brundha{
+    height: 103px;
+    width: 200px;
+    background-color: blueviolet;
+    border: 1px solid white;
+    float: left;
+    text-align: center;
+    
+}
+.chinni{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+
+}
+.sravani{
+    width:1315px;
+    height: 250px;
+    background-color: cadetblue;
+    float: right;
+    text-align: center;
+    align-items: center;
+    border: 1px solid white;
+}
+.pandu{
+    width:1315px;
+    height: 250px;
+    background-color: rgb(113, 141, 182);
+    float: right;
+    text-align: center;
+    align-items: center;
+    border: 1px solid white;
+}
+.uday{
+    width:350px;
+    height: 200px;
+    background-color: rgb(126, 237, 153);
+    text-align: center;
+    align-items: center;
+    border: 1px solid white;
+   margin-left: 500px;
+   text-align: center;
+   margin-top: 30px;
+    
+}
+
+input[type=button]{
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 40px;
+    width: 70px;
+    background-color: rgb(235, 240, 244);
+    margin-top: 40px;
+    
+}
+.tanu{
+    width:1315px;
+    height: 250px;
+    background-color: rgb(198, 254, 115);
+    float: right;
+    text-align: center;
+    align-items: center;
+    border: 1px solid white;
+}
+.baalu{
+    width:400px;
+    height: 200px;
+    background-color: rgb(126, 237, 153);
+    text-align: center;
+    align-items: center;
+    border: 1px solid white;
+   margin-right: 120px;
+   margin-top: 30px;
+   float: right;
+    
+}
+.aditya input[type=button]{
+    border-radius: 10px;
+    height: 40px;
+    width: 70px;
+    background-color: rgb(235, 240, 244);
+    margin-right: 500px;
+    
+    
+}
+.ammu{
+    width:1315px;
+    height: 250px;
+    background-color: rgb(139, 67, 240);
+    float: right;
+    text-align: center;
+    align-items: center;
+    border: 1px solid white;
+}
+.Circle{
+    width: 200px;
+    height: 190px;
+    border-radius: 600%;
+    background-color: aliceblue;
+    margin-left: 60px;
+    margin-top: 10px;
+    display: inline-block;
+    padding: 20px;
+}
+.nandhini{
+    width:1315px;
+    height: 250px;
+    background-color: rgb(248, 95, 161);
+    float: right;
+    text-align: center;
+    align-items: center;
+    border: 1px solid white;
+}
+
+.swapna{
+    float: left;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    margin-left: 110px;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 20px;
+}
